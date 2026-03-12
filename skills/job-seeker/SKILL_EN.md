@@ -19,7 +19,21 @@ description: |
 
 ---
 
-## 📥 Installation (OpenClaw One-Click Install)
+## 🚀 One-Click Install (Recommended)
+
+Just tell me:
+```
+Install job-seeker skill (https://github.com/cszr-liuxiaobo/clawskills-all-in-one/tree/main/skills/job-seeker)
+```
+
+I will automatically:
+1. Read SKILL.md to understand the skill
+2. Copy it to OpenClaw's skills directory
+3. Enable it in the config file
+
+---
+
+## 📥 Manual Install
 
 Add to `skills.entries` in `openclaw.json`:
 

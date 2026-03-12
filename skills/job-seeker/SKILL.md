@@ -19,7 +19,21 @@ description: |
 
 ---
 
-## 📥 安装方式（OpenClaw一键安装）
+## 🚀 一键安装（推荐）
+
+直接对我说：
+```
+帮我安装 job-seeker skill（https://github.com/cszr-liuxiaobo/clawskills-all-in-one/tree/main/skills/job-seeker）
+```
+
+我会自动：
+1. 读取SKILL.md了解这个skill
+2. 复制到OpenClaw的skills目录
+3. 在配置文件中启用它
+
+---
+
+## 📥 手动安装
 
 在 `openclaw.json` 的 `skills.entries` 中添加：
 
