@@ -15,6 +15,8 @@ description: |
 
 > 🎯 **一句话说明**：帮助求职者搜索招聘平台、分析公司口碑、推荐合适岗位的AI助手
 
+> 🌐 **Language / 语言**: [中文](./SKILL.md) | [English](./SKILL_EN.md)
+
 ---
 
 ## 📥 安装方式（OpenClaw一键安装）
